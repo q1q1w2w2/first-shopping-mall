@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/first-shopping-mall/static/css/main.c5b8c18b.css",
-    "main.js": "/first-shopping-mall/static/js/main.baa4c9ef.js",
+    "main.js": "/first-shopping-mall/static/js/main.9e3dfc27.js",
     "static/js/453.0f4552a2.chunk.js": "/first-shopping-mall/static/js/453.0f4552a2.chunk.js",
     "static/media/bg.png": "/first-shopping-mall/static/media/bg.616f307c169b743ff920.png",
     "index.html": "/first-shopping-mall/index.html",
     "main.c5b8c18b.css.map": "/first-shopping-mall/static/css/main.c5b8c18b.css.map",
-    "main.baa4c9ef.js.map": "/first-shopping-mall/static/js/main.baa4c9ef.js.map",
+    "main.9e3dfc27.js.map": "/first-shopping-mall/static/js/main.9e3dfc27.js.map",
     "453.0f4552a2.chunk.js.map": "/first-shopping-mall/static/js/453.0f4552a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5b8c18b.css",
-    "static/js/main.baa4c9ef.js"
+    "static/js/main.9e3dfc27.js"
   ]
 }
